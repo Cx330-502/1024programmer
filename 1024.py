@@ -66,7 +66,7 @@ def make_main_panel(color) -> Panel:
         ""
     )
     time_message.add_row(
-        "[green]项目仓库 [white] : [blue][u blue link=]还没上传~"
+        "[green]项目仓库 [white] : [blue][u blue link=https://github.com/Cx330-502/1024programmer]https://github.com/Cx330-502/1024programmer"
     )
     time_message.add_row(
         "[green]博客 [white]: [blue][u blue link=https://cx330_502.github.io]52Hz的鲸歌"
